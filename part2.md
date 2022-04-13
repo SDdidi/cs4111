@@ -122,7 +122,7 @@ Submit **via Gradescope** a pdf report containing:
 * the 3 interesting queries you created, along with a short description for each of them;
 * descriptions of any changes to the application, data modeling, or schema that you have made since Part 1 of the project.  Remember to have short explanations for why you made those changes.
 
-If you perform any changes to your schema after your Gradescope submission, we will consider it as your new submission date/time. SELECT queries are allowed.
+~~If you perform any changes to your schema after your Gradescope submission, we will consider it as your new submission date/time. SELECT queries are allowed.~~ You are now allowed to make changes to your schema and relations. We have created a snapshot of database for grading.
 
 
 

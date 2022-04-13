@@ -4,6 +4,7 @@
 * Due:  4/15 10AM EST
 * (worth 50% of overall Project 1 grade)
 
+**Update (4/1)**: We have updated the [instructions](./programming.md) for Google Cloud.
 
 In this part of the project, you will either (3a) complete the web application by building the front end
 on top of the `Flask` Python webserver, or (3b) expand your schema design.
